@@ -1,0 +1,25 @@
+{
+  "name": "react-native-listview-examples",
+  "version": "1.0.0",
+  "description": "Examples of how to use the ListView in React Native",
+  "keywords": "React Native, ListView",
+  "bugs": "https://github.com/gwmccull/react-native-listview-examples/issues",
+  "license": "MIT",
+  "author": {
+    "name" : "Garrett McCullough",
+    "email" : "gwmccull@gmail.com",
+    "url" : "http://mcculloughwebservices.com/"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/gwmccull/react-native-listview-examples"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "expo": "17.0.0",
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-17.0.0.tar.gz",
+    "react-native-viewpager": "^0.2.13"
+  }
+}
