@@ -1,5 +1,6 @@
 # Dependency directories
 node_modules/
+.expo
 
 # Optional npm cache directory
 .npm
